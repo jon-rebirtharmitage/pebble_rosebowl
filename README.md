@@ -1,4 +1,4 @@
-# CroninTech Analog Watchface
+# CroninTech Analog Watchface : Rosebowl Hawkeyes
 
 Analog watchface for Pebble 2 Emery (200×228) built with Alloy (Poco renderer).
 
@@ -7,7 +7,7 @@ Analog watchface for Pebble 2 Emery (200×228) built with Alloy (Poco renderer).
 - Dark navy background
 - 12 tick marks — large at 12/3/6/9, smaller at all others
 - Thin analog hands — hour (3px), minute (2px), second (1px red)
-- CRONIN / TECH logo centered on the face
+- Image logo centered on the face
 - Date window at the 3 o'clock position
 - Smooth second-hand updates via `secondchange`
 

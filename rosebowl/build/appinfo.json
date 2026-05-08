@@ -1,0 +1,35 @@
+{
+    "displayName": "rosebowl",
+    "uuid": "af89b66d-27b5-4fb0-854d-eec3d418bf38",
+    "projectType": "moddable",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "emery",
+        "gabbro"
+    ],
+    "watchapp": {
+        "watchface": true
+    },
+    "messageKeys": {
+        "dummy": 10000
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "raw",
+                "name": "logo",
+                "file": "logo.png"
+            }
+        ]
+    },
+    "name": "rosebowl",
+    "shortName": "rosebowl",
+    "longName": "rosebowl",
+    "versionLabel": "1.0.0",
+    "companyName": "Cronin Technology",
+    "appKeys": {
+        "dummy": 10000
+    },
+    "capabilities": []
+}

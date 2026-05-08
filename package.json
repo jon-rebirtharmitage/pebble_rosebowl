@@ -1,0 +1,16 @@
+{
+  "name": "hawkeyes_rosebowl",
+  "version": "1.0.0",
+  "description": "CroninTech analog watchface for Pebble 2 Emery",
+  "author": "Jon Cronin",
+  "watchapp": {
+    "watchface": true
+  },
+  "targetPlatforms": [
+    "emery"
+  ],
+  "alloy": true,
+  "resources": {
+    "media": []
+  }
+}

@@ -83,7 +83,7 @@ Discarded input sections
  .bss           0x00000000        0x0 emery/src/resource_ids.auto.c.17.o
  .data.RESOURCE_ID_MOD
                 0x00000000        0x4 emery/src/resource_ids.auto.c.17.o
- .data.RESOURCE_ID_logo
+ .data.RESOURCE_ID_LOGO
                 0x00000000        0x4 emery/src/resource_ids.auto.c.17.o
  .text          0x00000000        0x0 src/message_keys.auto.c.17.o
  .bss           0x00000000        0x0 src/message_keys.auto.c.17.o

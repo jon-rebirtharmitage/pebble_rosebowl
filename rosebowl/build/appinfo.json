@@ -14,11 +14,12 @@
     "messageKeys": {
         "dummy": 10000
     },
+    "alloy": true,
     "resources": {
         "media": [
             {
-                "type": "raw",
-                "name": "logo",
+                "type": "bitmap",
+                "name": "LOGO",
                 "file": "logo.png"
             }
         ]

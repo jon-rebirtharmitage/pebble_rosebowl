@@ -21,11 +21,12 @@
     "messageKeys": [
       "dummy"
     ],
+  "alloy": true,
   "resources": {
     "media": [
       {
-        "type": "raw",
-        "name": "logo",
+        "type": "bitmap",
+        "name": "LOGO",
         "file": "logo.png"
       }
     ]
